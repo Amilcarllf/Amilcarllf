@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Amilcar Llanque 👋
+
+Junior Full Stack Developer based in Germany. I build web applications with Angular and Node.js, and I enjoy turning ideas into clean, working products.
+
+I'm currently open to work as a Junior Full Stack or Frontend Developer.
 
 <!--
 **Amilcarllf/Amilcarllf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
