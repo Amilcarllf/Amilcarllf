@@ -18,7 +18,10 @@ Working with AI tools and integrating AI into web applications
 Spanish (native) · German (fluent) · English (fluent)
 
 📫 Contact
-LinkedIn:
+
+<a href="https://linkedin.com/in/amilcar-llanque-flores-4993b63ba/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn">
+</a>
 <!--
 **Amilcarllf/Amilcarllf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
